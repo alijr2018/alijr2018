@@ -3,7 +3,7 @@
 my name abdelali and i am curently in alx se program 
 
 ### ⚙️ language 
-<img align"left alt="VS code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <!--
 **alijr2018/alijr2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
