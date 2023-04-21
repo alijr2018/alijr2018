@@ -12,8 +12,7 @@
 <a href="https://github.com/alijr2018" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
  </div>
  
-<!--Graph-->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alijr2018&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+
 
 ### ⚙️ language 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -23,6 +22,15 @@
 <img align="left" alt="vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="c++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-line.svg" style="padding-right:10px;" />
+
+<!--Skill And More Information--> 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alijr2018&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijr2018&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+</div>
+
+<!--Graph-->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alijr2018&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 <!--
 **alijr2018/alijr2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,3 +46,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--visits-->   
+<div align="center">
+<br><p align="centre"><b>Visitors Count 👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vhelaa1}/count.svg" /></p> 
+<br>
+</div>
+
+  
+ <!--Sneek Gusano-->
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
