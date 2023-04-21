@@ -27,7 +27,7 @@
 <table>
   <thead>
     <th><img src="https://github-readme-stats.vercel.app/api?username=alijr2018&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" /></th>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijr2018&layout=compact" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijr2018&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" /></th>
   </thead>
 </table>
 
