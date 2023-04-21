@@ -26,7 +26,6 @@
 <!--Skill And More Information--> 
 <table>
   <thead>
-    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=alijr2018&theme=default"></th>
     <th><img src="https://github-readme-stats.vercel.app/api?username=alijr2018&show_icons=true" alt="Ayoub Berdeddouch's Top Langs" /></th>
     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijr2018&layout=compact" /></th>
   </thead>
