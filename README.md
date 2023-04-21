@@ -24,12 +24,10 @@
 <img align="left" alt="c++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-line.svg" style="padding-right:10px;" />
 
 <!--Skill And More Information--> 
-<table>
-  <thead>
+<div align="center">  
     <th><img src="https://github-readme-stats.vercel.app/api?username=alijr2018&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" /></th>
     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijr2018&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" /></th>
-  </thead>
-</table>
+</div>
 
 <!--Graph-->
 ![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alijr2018&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
