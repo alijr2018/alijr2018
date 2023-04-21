@@ -4,6 +4,16 @@
 ### Hi there 👋
 
 <h3><code>Software engineering student</code></h3>
+<p>I'm a software engineering student currently pursuing a degree in ALX program. with an interesting in technology and problem-solving.</p>
+
+<!--Social Media-->  
+<div align="center"> 
+<a href="https://twitter.com/Alijr_2018" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://github.com/alijr2018" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
+ </div>
+ 
+<!--Graph-->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alijr2018&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 ### ⚙️ language 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
