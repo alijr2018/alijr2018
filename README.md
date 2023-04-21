@@ -32,6 +32,10 @@
 <!--Graph-->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alijr2018&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
+<!--Total Contributions--> 
+ <p align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=alijr2018&theme=tokyonight_duo&hide_border=true"
+</p>
 <!--
 **alijr2018/alijr2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
