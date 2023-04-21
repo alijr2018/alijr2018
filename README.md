@@ -25,7 +25,7 @@
 
 <!--Skill And More Information--> 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alijr2018&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alijr2018&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt= "" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijr2018&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <!--visits-->   
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vhelaa1}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alijr2018}/count.svg" /></p> 
 <br>
 </div>
 
