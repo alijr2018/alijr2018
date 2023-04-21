@@ -1,6 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm++ABDELALI+RAMI;I'm+currently+an+student+in+Alx+Software+Engineering+program+)](https://git.io/typing-svg)
+
 ### Hi there 👋
 
-my name abdelali and i am currently in alx se program 
+<h3><code>Software engineering student</code></h3>
 
 ### ⚙️ language 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
