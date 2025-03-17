@@ -12,6 +12,8 @@
 <a href="https://github.com/alijr2018" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
  </div>
  
+<!--stats-->
+[![abrami's 42 stats](https://badge.mediaplus.ma/kettlebells/abrami?1337Badge=off)](https://github.com/oakoudad/badge42)
 
 
 ### ⚙️ language 
@@ -23,8 +25,6 @@
 
 <img align="left" alt="c++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-line.svg" style="padding-right:10px;" />
 
-<!--stats-->
-[![abrami's 42 stats](https://badge.mediaplus.ma/kettlebells/abrami?1337Badge=off)](https://github.com/oakoudad/badge42)
 
 <!--Skill And More Information--> 
 
